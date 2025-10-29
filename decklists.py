@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 r"""
-scryfall_downloader_named_output.py
+decklists.py
 -----------------------------------
-Like scryfall_downloader_debug.py, but if you provide --input FILE and do NOT
+f you provide --input FILE and do NOT
 provide --out, this script will automatically create/use an output folder named
 after FILE's base name (without extension).
 
